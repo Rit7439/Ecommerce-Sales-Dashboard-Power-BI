@@ -1,2 +1,2 @@
-# Ecommerce-Sales-Dashboard-Power-BI
-Power BI dashboard analyzing e-commerce sales, profit trends, product performance, and regional insights.
+# Ecommerce-Sales-Dashboard-preview
+![Dashboard preview](Dashboard-preview.png)
